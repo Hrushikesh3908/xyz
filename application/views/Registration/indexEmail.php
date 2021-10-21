@@ -33,7 +33,7 @@
             <!-- form  -->
             <div class="row">
                  <div class="col-lg-6 mt-5 p-5"  style="background-color:#fff;">
-                            <h1 class="text-center">Register</h1>   
+                            <h1 class="text-center">Student Info</h1>   
                             <p class="text-center">Create Your Account It's Free and only takes a minute</p>
                        
 
