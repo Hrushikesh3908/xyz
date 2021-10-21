@@ -34,7 +34,7 @@
             <div class="row">
                  <div class="col-lg-6 mt-5 p-5"  style="background-color:#fff;">
                             <h1 class="text-center">Student Info</h1>   
-                            <p class="text-center">Create Your Account It's Free and only takes a minute</p>
+                            <p class="text-center">Create Your Account It's Free and only takes a minutec</p>
                        
 
 
@@ -79,7 +79,7 @@
             <label style="font-size: 11px;">By clicking on this button,<br> I authorise an NMIMS Global Access<br> AEP representative to contact<br> me via phone
     </div>
     <div class="form-group">
-        <input type="submit" name="submit" value="SUBMIT" class="submit-btn">
+        <input type="submit" name="submit" value="SUBMIT" class="btn submit-btn">
     </div>
     
 
